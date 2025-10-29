@@ -1,5 +1,9 @@
 # 📦 LawBot Project - Submission Package
 
+**Name:** Deepan Shanmugam  
+**Class:** AI & DS Section B  
+**Registration Number:** RA2412044015083
+
 ## 🎯 What to Submit
 
 ### **Folder Structure for Submission:**

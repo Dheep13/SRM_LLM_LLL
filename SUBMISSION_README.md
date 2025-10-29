@@ -1,6 +1,10 @@
 # ⚖️ LawBot: Intelligent Legal Q&A Assistant for Indian Law
 
 **Student Project Submission**  
+
+**Name:** Deepan Shanmugam  
+**Class:** AI & DS Section B  
+**Registration Number:** RA2412044015083  
 **Date:** October 2025
 
 ---
@@ -210,6 +214,18 @@ Try these in either mode:
 
 ---
 
+## 🎥 Demo Video
+
+**📹 Complete Video Demonstration:**
+
+**[Watch LawBot Demo on Google Drive](https://drive.google.com/drive/folders/1OVgxotidKSc6clLKpruU6h8-5135LjEU?usp=sharing)**
+
+**File:** FinalOutput_Recording.mp4 (168.7 MB)  
+**Duration:** ~5 minutes  
+**Content:** System setup, interactive Q&A, RAG retrieval, response generation
+
+---
+
 ## 📸 Screenshots & Demonstrations
 
 **See `LawBot_Project_Report.pdf` for:**
@@ -218,6 +234,7 @@ Try these in either mode:
 - Inference demonstrations
 - Response quality analysis
 - System architecture diagrams
+- Screenshots from demo video
 
 ---
 

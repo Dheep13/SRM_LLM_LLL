@@ -66,9 +66,19 @@
 - `QUICK_START_GUIDE.txt` - Quick reference
 - `FINAL_SUBMISSION_CHECKLIST.md` - Submission preparation
 - `INFERENCE_COMPARISON.md` - Inference modes explained
+- `VIDEO_DEMO_INSTRUCTIONS.md` - Video hosting guide
 - All files updated with your name, class, and registration number
 
-### **5. Fine-Tuned Model** ✅
+### **5. Demo Video** ✅
+
+**Video Demonstration:**
+- File: `FinalOutput_Recording.mp4` (168.7 MB)
+- Hosted on: Google Drive
+- Link: https://drive.google.com/drive/folders/1OVgxotidKSc6clLKpruU6h8-5135LjEU?usp=sharing
+- Duration: ~5 minutes
+- Content: Complete system demonstration with Q&A examples
+
+### **6. Fine-Tuned Model** ✅
 
 **Model Details:**
 - Base: Qwen/Qwen2.5-1.5B-Instruct

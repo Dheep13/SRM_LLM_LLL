@@ -1,5 +1,9 @@
 # ✅ LawBot Project - Final Submission Checklist
 
+**Name:** Deepan Shanmugam  
+**Class:** AI & DS Section B  
+**Registration Number:** RA2412044015083
+
 ## 📦 Complete Submission Guide
 
 Use this checklist to prepare your final submission.

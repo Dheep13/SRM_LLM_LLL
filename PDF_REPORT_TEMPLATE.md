@@ -10,9 +10,11 @@ Use this template to create your `LawBot_Project_Report.pdf`. Include screenshot
 
 **Project Report**
 
-**Student Name:** [Your Name]  
+**Student Name:** Deepan Shanmugam  
+**Class:** AI & DS Section B  
+**Registration Number:** RA2412044015083  
 **Date:** October 29, 2025  
-**Course:** [Course Name/Code]
+**Institution:** SRM Institute of Science and Technology
 
 ---
 

@@ -149,9 +149,9 @@ The model automatically downloads when running `full_inference.py`.
 
 **📹 Watch the complete demonstration:**
 
-**[LawBot Demo Video - Watch Here](ADD_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**[LawBot Demo Video - Watch Here](https://drive.google.com/drive/folders/1OVgxotidKSc6clLKpruU6h8-5135LjEU?usp=sharing)**
 
-*Duration: ~5 minutes | Shows: System setup, Q&A examples, RAG retrieval, response generation*
+*Duration: ~5 minutes | File: FinalOutput_Recording.mp4 (168.7 MB)*
 
 **Video demonstrates:**
 - System status verification
