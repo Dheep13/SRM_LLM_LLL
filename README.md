@@ -1,4 +1,4 @@
-# ⚖️ LawBot: Intelligent Legal Q&A Assistant for Indian Law
+# ⚖️ LawBot: Intelligent Legal Q&A Assistant for Indian Law - RA2412044015083 - Deepan Shanmugam
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
