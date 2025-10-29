@@ -1,0 +1,32 @@
+{
+  "dataset_statistics": {
+    "total_samples": 14522,
+    "train_samples": 11617,
+    "val_samples": 2905,
+    "train_ratio": 0.7999586833769453,
+    "val_ratio": 0.2000413166230547
+  },
+  "source_distribution": {
+    "overall": {
+      "Constitution": 4074,
+      "CrPC": 8181,
+      "IPC": 2267
+    },
+    "train": {
+      "Constitution": 3241,
+      "CrPC": 6553,
+      "IPC": 1823
+    },
+    "val": {
+      "IPC": 444,
+      "CrPC": 1628,
+      "Constitution": 833
+    }
+  },
+  "text_statistics": {
+    "avg_instruction_length": 100.9557912133315,
+    "avg_output_length": 121.56404076573475,
+    "max_instruction_length": 1025,
+    "max_output_length": 1398
+  }
+}

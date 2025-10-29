@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.local
+google_drive_connection.json
+credentials.json
+*credentials*.json
+
+# Model weights and checkpoints
+models/adapters/*/
+models/reward_model/*/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Vector stores
+vectorstore/faiss_index/*.idx
+vectorstore/faiss_index/*.pkl
+
+# Data files (optional - adjust based on your needs)
+data/processed/*.jsonl
+data/processed/*.json
+data/rag_documents/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google Colab
+.drive/
+gdrive/
+
+# Gradio
+gradio_cached_examples/
+flagged/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+archive/
+

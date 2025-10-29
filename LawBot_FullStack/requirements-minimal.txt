@@ -1,0 +1,23 @@
+# Minimal requirements for LawBot - Core dependencies only
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+
+# ML/AI - Compatible versions (avoiding torchvision conflicts)
+torch>=2.2.0,<2.5.0
+transformers>=4.35.0,<4.45.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+peft>=0.6.0
+accelerate>=0.24.0
+
+# Gradio for inference UI
+gradio>=4.0.0
+
+# Basic utilities
+numpy
+requests
+beautifulsoup4
+python-dateutil
