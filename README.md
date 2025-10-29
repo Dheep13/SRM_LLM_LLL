@@ -145,6 +145,27 @@ The model automatically downloads when running `full_inference.py`.
 
 ---
 
+## 🎥 Demo Video
+
+**📹 Watch the complete demonstration:**
+
+**[LawBot Demo Video - Watch Here](ADD_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+
+*Duration: ~5 minutes | Shows: System setup, Q&A examples, RAG retrieval, response generation*
+
+**Video demonstrates:**
+- System status verification
+- Interactive legal Q&A
+- RAG context retrieval
+- Response generation with citations
+- Legal terminology detection
+- Multiple query types (IPC, CrPC, Constitution)
+
+**Note:** Video file (168 MB) is hosted on Google Drive due to GitHub size limits.  
+See `VIDEO_DEMO_INSTRUCTIONS.md` for uploading instructions.
+
+---
+
 ## 💡 Example Queries
 
 Try these questions:
@@ -321,6 +342,8 @@ Contributions are welcome! Please:
 ## 📧 Contact
 
 **Author**: Deepan Shanmugam  
+**Class**: AI & DS Section B  
+**Registration Number**: RA2412044015083  
 **GitHub**: [@Dheep13](https://github.com/Dheep13)  
 **Repository**: [SRM_LLM_LLL](https://github.com/Dheep13/SRM_LLM_LLL)
 

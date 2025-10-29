@@ -63,6 +63,12 @@ logs/
 *.bak
 *.cache
 
+# Large video files (host on Google Drive instead)
+*.mp4
+*.avi
+*.mov
+FinalOutput_Recording.*
+
 # OS files
 Thumbs.db
 .DS_Store
